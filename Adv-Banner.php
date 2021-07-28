@@ -1,4 +1,4 @@
-<?php
+
 //coded By DNReporters
 //follow me on github http://github.com/DNReporters
 //subscribe my yt channel
