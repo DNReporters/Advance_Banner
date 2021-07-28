@@ -1,3 +1,6 @@
+<?php
+//coded By DNReporters
+//follow me on github https://github.com/DNReporters/Advance_Banner
 
 system('git pull');
 if ( ! file_exists("/data/data/com.termux/files/usr/bin/cowsay")){
