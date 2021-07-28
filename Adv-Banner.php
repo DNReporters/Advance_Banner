@@ -287,7 +287,7 @@ elseif ( $bcho == 8 ){
 	}
 
 elseif ( $bcho == 9 ){
-	system("xdg-open https://github.com/DaVe-Smith-89/Animation-Banner-Help");
+	system("xdg-open https://github.com/DNReporters/Advance_Banner");
 	sleep(5);
 	logo();
 	bannermenu();
