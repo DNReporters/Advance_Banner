@@ -1,6 +1,3 @@
-//coded By DNReporters
-//follow me on github http://github.com/DNReporters
-//subscribe my yt channel
 
 system('git pull');
 if ( ! file_exists("/data/data/com.termux/files/usr/bin/cowsay")){
